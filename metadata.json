@@ -1,0 +1,10 @@
+{
+  "name": "Voyager - Ultimate Smart Transit & Travel Tracker",
+  "description": "Comprehensive full-stack travel planner with public transit routing, traffic map alerts, offline navigation mode, currency conversions, shared group budgets, direct booking portal, and personalized AI interest recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
